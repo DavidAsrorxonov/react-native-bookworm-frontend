@@ -3,8 +3,6 @@
 # dependencies
 node_modules/
 
-mobile/constants/api.js
-
 # Expo
 .expo/
 dist/
